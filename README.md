@@ -2,7 +2,7 @@
 
 Denne oppbevaringsplasssen inneholder startkode og enhetstester for Java Programmeringsoppgave 2 som er en obligatorisk innlevering. 
 
-Den obligatoriske innleveringen kan gjøres i **grupper** med opptil **3 personer**. Tanken er at det er de *samme gruppene* som dere skal bruke i programmeringsprosjektet i uke 41/42.
+Den obligatoriske innleveringen kan gjøres i **grupper** med opptil **4 personer**. Tanken er at det er de *samme gruppene* som dere skal bruke i programmeringsprosjektet i uke 41/42.
 
 Oppgaven omhandler metoder for en- og to-dimensjonale tabeller. 
 
